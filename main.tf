@@ -22,4 +22,9 @@ resource "azurerm_resource_group" "ddd" {
     location = "east us"
   
 }
+resource "azurerm_resource_group" "eee" {
+    name = "gemo-rg"
+    location = "east us"
+  
+}
 
