@@ -17,8 +17,8 @@ resource "azurerm_resource_group" "bbb" {
     location = "east us"
   
 }
-resource "azurerm_resource_group" "ccc" {
-    name = "gemo-rg"
+resource "azurerm_resource_group" "ddd" {
+    name = "kemo-rg"
     location = "east us"
   
 }
