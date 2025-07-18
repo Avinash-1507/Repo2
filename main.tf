@@ -17,14 +17,10 @@ resource "azurerm_resource_group" "bbb" {
     location = "east us"
   
 }
-resource "azurerm_resource_group" "ddd" {
-    name = "gemo-rg"
-    location = "east us"
-  
-}
 resource "azurerm_resource_group" "eee" {
     name = "gemo-rg"
     location = "east us"
   
 }
+
 
